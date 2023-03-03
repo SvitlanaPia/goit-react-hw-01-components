@@ -6,10 +6,12 @@ import { ThemeProvider } from 'styled-components';
 
 const theme = {
   colors: {
-    backgraund: '#E7ECF1',
-    while: '#FFFFFF',
+    white: '#FFFFFF',
     mainText: '#122335',
-    text: '#E4E7EA',
+    text: '#646E76',
+    background: '#F3F6F9',
+    border: '#D2DCE7',
+    tableBg: '#00BDD5',
   },
 };
 
